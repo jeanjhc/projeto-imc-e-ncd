@@ -1,0 +1,22 @@
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.font.*;
+import java.time.LocalDate.*;
+import javax.swing.ButtonGroup;
+import javax.swing.JButton;
+import javax.swing.JComboBox;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JRadioButton;
+import javax.swing.JTextField;
+
+import br.com.academia.model.*;
+
+public class Jframe{
+	public void criarJframe() {
+		Font titulo = new Font("Arial", Font.BOLD,22);
+		Font resultado = new Font("Arial", Font.BOLD,18);
+		Color azul = new Color(192, 254, 193);
+		
+	}
+}
